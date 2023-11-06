@@ -48,6 +48,7 @@
 ## 구현 이미지
 - 게시판 리스트
   - 정렬, 검색 기능
+  - 페이지네이션 기능
 ![멤버보드 리스트](https://github.com/codestates-seb/seb45_main_024/assets/63900477/06bfedb6-8a1b-4681-b212-9da7e20a4837)
 
 - 게시글 작성
@@ -55,9 +56,14 @@
 ![멤버보드 작성2](https://github.com/codestates-seb/seb45_main_024/assets/63900477/47674a9f-fdb3-4907-8b26-1961d753fb1f)
 
 - 댓글 작성 및 댓글 리스트
+  - 댓글 CRUD
+  - 댓글을 통해 프로젝트 지원 가능
+  - 게시글 소유자는 프로젝트 지원 댓글 수락/거절 가능
 ![멤버 보드 댓글](https://github.com/codestates-seb/seb45_main_024/assets/63900477/7080ba53-f13f-491a-9ad7-4dc6a0455199)
 
 - 알림
+  - 알림을 받아오기위해 polling 기법 사용
+  - 알림 클릭시 읽음 처리
 ![알림](https://github.com/codestates-seb/seb45_main_024/assets/63900477/a3934b22-57fb-4b90-9429-299aeed98505)
 
 <br />
